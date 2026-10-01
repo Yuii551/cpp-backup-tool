@@ -1,0 +1,12 @@
+# Rider and editor metadata
+.idea/
+.vscode/
+
+# CMake build directories
+build/
+cmake-build-*/
+
+# Generated compiler output
+*.obj
+*.exe
+*.pdb
